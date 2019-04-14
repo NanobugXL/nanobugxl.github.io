@@ -1,10 +1,10 @@
-logo: # add logo name
+logo: NanobugXL # add logo name
 title: NanobugXL
 description: > # this means to ignore newlines until "baseurl:"
   I'll write something here when I can think of something cool to say...
 permalink: ':title/'
-baseurl: "/bef" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nanobugxl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: backgrounda.mp4 # add banner video. Add your video file to the folder video
@@ -13,11 +13,11 @@ banner-desc: # add banner description
 
 # Author settings
 author-pic: 440179.jpg # your photo
-author-name: # your name
-about-author: # about author
+author-name: NanobugXL # your name
+about-author: Just another gamer, another dev and another human # about author
 email: nanobugxl@gmail.com # your email
 phone:  # your pnone number
-website: http://nanobugxl.github.io/ # you website
+website: http://nanobugxl.github.io # you website
 
 # Social link
 google_url:    # add url link
